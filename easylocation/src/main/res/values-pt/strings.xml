@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Location</string>
+    <string name="fallback_error_dialog_message">Por favor, ative seu GPS.</string>
+    <string name="fallback_error_dialog_negative_button_text">Cancelar</string>
+    <string name="fallback_error_dialog_positive_button_text">Ok</string>
+    <string name="fallback_error_dialog_title">Localização desativada</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy Location</string>
+    <string name="fallback_error_dialog_title">Location disabled</string>
+    <string name="fallback_error_dialog_positive_button_text">Ok</string>
+    <string name="fallback_error_dialog_message">Please, enable your GPS.</string>
+    <string name="fallback_error_dialog_negative_button_text">Cancel</string>
+</resources>
